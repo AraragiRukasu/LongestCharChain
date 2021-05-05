@@ -26,7 +26,7 @@ Output for this given input:
 
 ### VS
 
-Just open the solution on the LongestCharChain folder, set the only project contained as StartUp (default) and run it with Debugger using F5 or without with Ctrl + F5.
+Just open the solution on the root of the repo, set the only project contained as StartUp (default) and run it with Debugger using F5 or without with Ctrl + F5.
 
 This will build the project, open a console window, run the project and output the result on the screen.
 

@@ -82,6 +82,7 @@ namespace EmeriosExam
 
                     if (consecutives > maxConsecutives) maxConsecutives = consecutives;
                 }
+                consecutives = 1;
             }
 
             return maxConsecutives;
@@ -110,6 +111,7 @@ namespace EmeriosExam
 
                     if (consecutives > maxConsecutives) maxConsecutives = consecutives;
                 }
+                consecutives = 1;
             }
 
             return maxConsecutives;

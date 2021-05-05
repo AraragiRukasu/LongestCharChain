@@ -39,3 +39,7 @@ dotnet run LongestCharChain.csproj
 ```
 
 This will build and run the project outputting the result in screen and returning control to the console.
+
+## Notes
+
+The solution was implemented on C# being the language I feel more confortable on, but given the nature of the problem this may be easier to do on a more functional laguage that provides better tools to manage data in matrixes.
